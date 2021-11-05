@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud computing, devops, and c# dev
 - 🌱 I teach here http://www.pima.edu
 - 💬 I'm on LinkedIn https://www.linkedin.com/in/andrewschuler/
-
+- ⚡ View my gists at https://gist.github.com/andrewschuler
 
 <!---
 andrewschuler/andrewschuler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
