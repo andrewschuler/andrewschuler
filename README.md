@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @andrewschuler
 - 👀 I’m interested in cloud computing, devops, and c# dev
 - 🌱 I teach here http://www.pima.edu
+- 💬 I'm on LinkedIn https://www.linkedin.com/in/andrewschuler/
 
 
 <!---
